@@ -6,10 +6,10 @@ namespace ConsoleApp4._3
     {
         static void Main(string[] args)
         {            
-            TryParsing();           
+            GetNumber();           
         }
 
-        static int TryParsing()
+        static int GetNumber()
         {
             bool isNotConverted = true;
 
